@@ -1,7 +1,7 @@
 # درّبيني (Darribini) 🚗📱  
 **Empowering Driving Instructors and Learners Through Technology**  
-
-درّبيني is a mobile application designed to connect women driving instructors with learners, offering tools to manage lessons, track progress, and streamline communication. This project incorporates modern project management practices to deliver a reliable, user-friendly platform.  
+Darribini is a mobile application designed to connect women driving instructors with learners, offering tools to manage lessons, track progress, and streamline communication. This project incorporates modern project management practices to deliver a reliable, user-friendly platform.  
+  
 
 ---
 
