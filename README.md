@@ -20,4 +20,11 @@
 
 ### Admin Features:  
 - **User Management**: Oversee both instructor and learner accounts.  
-- **Approval System**: Approve or reject instructor registrations.  
+- **Approval System**: Approve or reject instructor registrations.
+
+### Team Members 👩‍💻👨‍💻:  
+- **Taif Alrubaan (Leader)** 
+- **Basma Alsulaim**
+- **Raghad Alboqami**
+- **Arwa Mesloub**
+
